@@ -17,6 +17,7 @@ body {
 	color: var(--color-text);
 	background-color: #fff;
 	background-color: var(--color-bg);
+	background: linear-gradient(-135deg, var(--color-top-right), var(--color-bottom-left));
 }
 /* Color schemes */
 .demo-1 {
